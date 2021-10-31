@@ -1,0 +1,15 @@
+sudo docker run -it -d --name 컨테이너이름 --network host ubuntu-setting-1(이미지이름)
+
+sudo docker cp S
+
+sudo docker run -it -d --name nginx --network -p 80:80 nginx
+
+
+name
+_A3581DBA415B4A2789E0B3A2363CCF7C.antsware.kro.kr
+
+point to 
+86633C623B4255EAAFF6B84F5C262682.AEB3D16F5E82AFF5600F4C0B5166B9F8.226e5648d45cdf8.comodoca.com
+
+ttl
+3600 (or lower)
